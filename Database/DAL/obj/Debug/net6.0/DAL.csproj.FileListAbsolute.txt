@@ -1,0 +1,70 @@
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.dll
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.pdb
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.dll
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\refint\DAL.dll
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.pdb
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\ref\DAL.dll
+F:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.deps.json
+F:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+F:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.dll
+F:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.pdb
+F:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+F:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+F:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+F:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+F:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.dll
+F:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\refint\DAL.dll
+F:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.pdb
+F:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+F:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\ref\DAL.dll
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.dll
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\refint\DAL.dll
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.pdb
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.deps.json
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.dll
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.pdb
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\ref\DAL.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.deps.json
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\DAL\bin\Debug\net6.0\DAL.pdb
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\refint\DAL.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.pdb
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\DAL\obj\Debug\net6.0\ref\DAL.dll

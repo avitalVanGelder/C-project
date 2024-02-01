@@ -1,0 +1,109 @@
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.csproj.AssemblyReference.cache
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.GeneratedMSBuildEditorConfig.editorconfig
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.AssemblyInfoInputs.cache
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.AssemblyInfo.cs
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.csproj.CoreCompileInputs.cache
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.MvcApplicationPartsAssemblyInfo.cs
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.csproj.AssemblyReference.cache
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.AssemblyInfoInputs.cache
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.AssemblyInfo.cs
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.csproj.CoreCompileInputs.cache
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\appsettings.json
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\MyServer.exe
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\MyServer.deps.json
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\MyServer.runtimeconfig.json
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\MyServer.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\MyServer.pdb
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\staticwebassets\msbuild.MyServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\staticwebassets\msbuild.build.MyServer.props
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyServer.props
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyServer.props
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\scopedcss\bundle\MyServer.styles.css
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.csproj.CopyComplete
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\refint\MyServer.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.pdb
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.genruntimeconfig.cache
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\ref\MyServer.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\appsettings.Development.json
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\appsettings.json
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\MyServer.exe
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\MyServer.deps.json
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\MyServer.runtimeconfig.json
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\MyServer.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\MyServer.pdb
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\BL.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\DAL.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\BL.pdb
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\bin\Debug\net6.0\DAL.pdb
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.csproj.AssemblyReference.cache
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.AssemblyInfoInputs.cache
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.AssemblyInfo.cs
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.csproj.CoreCompileInputs.cache
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.MvcApplicationPartsAssemblyInfo.cs
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.MvcApplicationPartsAssemblyInfo.cache
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\staticwebassets\msbuild.MyServer.Microsoft.AspNetCore.StaticWebAssets.props
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\staticwebassets\msbuild.build.MyServer.props
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyServer.props
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyServer.props
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\staticwebassets.pack.json
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\staticwebassets.build.json
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\staticwebassets.development.json
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\scopedcss\bundle\MyServer.styles.css
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.csproj.CopyComplete
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\refint\MyServer.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.pdb
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\MyServer.genruntimeconfig.cache
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\MyServer\obj\Debug\net6.0\ref\MyServer.dll

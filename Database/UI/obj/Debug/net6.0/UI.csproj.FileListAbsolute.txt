@@ -1,0 +1,45 @@
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\bin\Debug\net6.0\UI.exe
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\bin\Debug\net6.0\UI.deps.json
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\bin\Debug\net6.0\UI.runtimeconfig.json
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\bin\Debug\net6.0\UI.dll
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\bin\Debug\net6.0\UI.pdb
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.csproj.AssemblyReference.cache
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.AssemblyInfoInputs.cache
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.AssemblyInfo.cs
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.csproj.CoreCompileInputs.cache
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.dll
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\refint\UI.dll
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.pdb
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.genruntimeconfig.cache
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\ref\UI.dll
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\bin\Debug\net6.0\UI.exe
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\bin\Debug\net6.0\UI.deps.json
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\bin\Debug\net6.0\UI.runtimeconfig.json
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\bin\Debug\net6.0\UI.dll
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\bin\Debug\net6.0\UI.pdb
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.csproj.AssemblyReference.cache
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.AssemblyInfoInputs.cache
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.AssemblyInfo.cs
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.csproj.CoreCompileInputs.cache
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.dll
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\refint\UI.dll
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.pdb
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.genruntimeconfig.cache
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\UI\obj\Debug\net6.0\ref\UI.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\UI\bin\Debug\net6.0\UI.exe
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\UI\bin\Debug\net6.0\UI.deps.json
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\UI\bin\Debug\net6.0\UI.runtimeconfig.json
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\UI\bin\Debug\net6.0\UI.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\UI\bin\Debug\net6.0\UI.pdb
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.csproj.AssemblyReference.cache
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.AssemblyInfoInputs.cache
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.AssemblyInfo.cs
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.csproj.CoreCompileInputs.cache
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\UI\obj\Debug\net6.0\refint\UI.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.pdb
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\UI\obj\Debug\net6.0\UI.genruntimeconfig.cache
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\UI\obj\Debug\net6.0\ref\UI.dll

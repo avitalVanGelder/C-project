@@ -1,0 +1,51 @@
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\bin\Debug\net6.0\BL.deps.json
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\bin\Debug\net6.0\BL.dll
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\bin\Debug\net6.0\BL.pdb
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.dll
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\refint\BL.dll
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.pdb
+E:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\ref\BL.dll
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\bin\Debug\net6.0\BL.deps.json
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\bin\Debug\net6.0\BL.dll
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\bin\Debug\net6.0\BL.pdb
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.dll
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\refint\BL.dll
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.pdb
+G:\אונקי חדש\הגשות שיעורי בית ללי\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\ref\BL.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\BL\bin\Debug\net6.0\BL.deps.json
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\BL\bin\Debug\net6.0\BL.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\BL\bin\Debug\net6.0\BL.pdb
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\BL\obj\Debug\net6.0\refint\BL.dll
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.pdb
+C:\Users\326022910\Desktop\פרויקט שלב א\Database\BL\obj\Debug\net6.0\ref\BL.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\BL\bin\Debug\net6.0\BL.deps.json
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\BL\bin\Debug\net6.0\BL.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\BL\bin\Debug\net6.0\BL.pdb
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\BL\bin\Debug\net6.0\DAL.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\BL\bin\Debug\net6.0\DAL.pdb
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\refint\BL.dll
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\BL.pdb
+F:\אביטל\שנה ב\C#\פרויקט שלב א\Database\BL\obj\Debug\net6.0\ref\BL.dll
